@@ -1,3 +1,2 @@
 # CIS3515 Assignment 1
-Erika Garica
-Section: 001
+Erika Garcia, Sec 001
